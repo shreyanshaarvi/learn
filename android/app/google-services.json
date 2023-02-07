@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "239866788373",
+    "project_id": "wallpaper-6f55b",
+    "storage_bucket": "wallpaper-6f55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239866788373:android:4282f44861140a5b4aac1c",
+        "android_client_info": {
+          "package_name": "com.spreecode.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239866788373-r0s57l4b7qlug04g11bn4mqbsv03od03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spreecode.wallpaper",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "239866788373-2ncmrminoe90ntbmdpme6r6obi53c3s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwVwZOVoduYzJJ0bTDkMY4irwEWuTxgTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239866788373-2ncmrminoe90ntbmdpme6r6obi53c3s3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239866788373-bdrnpv0na8jigi1lre4o0lt2p8vi47m6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spreecode.wallpaper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
